@@ -2,12 +2,12 @@
 	"incitems" : [
 	{
 		"abr": "tornado",
-		"price": 800,
+		"price": 3000,
 		"karmatype": "Bad"
 	},
 	{
 		"abr": "tornados",
-		"price": 2600,
+		"price": 6000,
 		"karmatype": "Bad"
 	},
 	{
@@ -82,7 +82,7 @@
 	},
 	{
 		"abr": "toxicfallout",
-		"price": 6500,
+		"price": 26000,
 		"karmatype": "Doom"
 	},
 	{
@@ -113,11 +113,6 @@
 	{
 		"abr": "resourcepodcrash",
 		"price": 300,
-		"karmatype": "Good"
-	},
-	{
-		"abr": "transportpodcrash",
-		"price": 600,
 		"karmatype": "Good"
 	},
 	{
@@ -302,7 +297,7 @@
 	},
 	{
 		"abr": "genderswap",
-		"price": 600,
+		"price": 150,
 		"karmatype": "Neutral"
 	},
 	{
@@ -332,17 +327,17 @@
 	},
 	{
 		"abr": "reviveall",
-		"price": 22664,
+		"price": 22660,
 		"karmatype": "Good"
 	},
 	{
 		"abr": "reviveme",
-		"price": 2833,
+		"price": 2830,
 		"karmatype": "Good"
 	},
 	{
 		"abr": "healall",
-		"price": 17336,
+		"price": 17300,
 		"karmatype": "Good"
 	},
 	{
@@ -357,12 +352,7 @@
 	},
 	{
 		"abr": "surgery",
-		"price": 500,
-		"karmatype": "Neutral"
-	},
-	{
-		"abr": "passionshuffle",
-		"price": 2000,
+		"price": 1,
 		"karmatype": "Neutral"
 	},
 	{
@@ -379,16 +369,6 @@
 		"abr": "fullheal",
 		"price": 2167,
 		"karmatype": "Good"
-	},
-	{
-		"abr": "passion",
-		"price": 7000,
-		"karmatype": "Good"
-	},
-	{
-		"abr": "removepassion",
-		"price": 5000,
-		"karmatype": "Neutral"
 	},
 	{
 		"abr": "backpack",
@@ -416,16 +396,6 @@
 		"karmatype": "Neutral"
 	},
 	{
-		"abr": "randomchildhood",
-		"price": 3000,
-		"karmatype": "Neutral"
-	},
-	{
-		"abr": "randomadulthood",
-		"price": 3000,
-		"karmatype": "Neutral"
-	},
-	{
 		"abr": "smite",
 		"price": 2500,
 		"karmatype": "Doom"
@@ -436,5 +406,5 @@
 		"karmatype": "Good"
 	}
 	],
-	"total": 87
+	"total": 81
 }
