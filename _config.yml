@@ -1,12 +1,12 @@
 # Metadata
-title: "SirRandoo's Purchase List"
+title: "NinaIsMe's Purchase List"
 favicon: assets/img/favicon.png
-description: A custom version of Toolkit's item list to support all the latest features of Utils.
+description: The custom Item list where u can find all items that are for pucharse while I play Rimworld on stream.
 
-baseurl: '/itemlist' # the subpath of your site, e.g. /blog
+baseurl: '/rimworld' # the subpath of your site, e.g. /blog
 url: '' # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: ''
-github_username: 'sirrandoo'
+github_username: 'NinaIsMe'
 
 # Item list settings
 #
