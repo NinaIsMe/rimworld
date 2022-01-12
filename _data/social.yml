@@ -18,21 +18,23 @@ stack_overflow:
 stack_exchange:
 steam:
 tumblr:
-twitter:
+twitter: NinaIsMe
 vimeo:
 wordpress:
 youtube: # Youtube channel token like: UCqECaJ8Gagnn7YCbPEzWH6g
-twitch: sirrandoo
+twitch: NinaIsMe
 tiktok:
+ko-fi: NinaIsMe
 
 # Share button options
 share:
-  facebook: true
+  facebook: false
   twitter: true
-  tumblr:
-  pinterest:
-  pocket:
-  reddit: true
-  linkedin:
+  tumblr: false
+  pinterest: false
+  pocket: false
+  reddit: false
+  linkedin: false
   wordpress:
-  email: true
+  email: false
+  ko-fi: true
